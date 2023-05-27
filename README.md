@@ -1,2 +1,3 @@
 # Web-blog
-this website made for blogging
+This website made for blogging
+It uses data gotten from an api storage
